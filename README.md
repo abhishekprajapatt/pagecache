@@ -157,7 +157,7 @@ If you find this implementation useful for education or research, please cite:
 
 ```
 PageCache: A User-Space OS Page Cache & I/O Subsystem
-GitHub: https://github.com/yourname/pagecache
+GitHub: https://github.com/abhishekprajapatt/pagecache
 2025
 ```
 
